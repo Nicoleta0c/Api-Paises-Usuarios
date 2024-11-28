@@ -1,0 +1,355 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|c:\\users\\cjroy\\downloads\\webapi backend\\webmyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|solutionrelative:webmyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|c:\\users\\cjroy\\downloads\\webapi backend\\webmyapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|solutionrelative:webmyapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|c:\\users\\cjroy\\downloads\\webapi backend\\webmyapi\\servicios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|solutionrelative:webmyapi\\servicios\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|c:\\users\\cjroy\\downloads\\webapi backend\\webmyapi\\controllers\\paiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|solutionrelative:webmyapi\\controllers\\paiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|c:\\users\\cjroy\\downloads\\webapi backend\\webmyapi\\data\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|solutionrelative:webmyapi\\data\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|c:\\users\\cjroy\\downloads\\webapi backend\\webmyapi\\modelos\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|solutionrelative:webmyapi\\modelos\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|c:\\users\\cjroy\\downloads\\webapi backend\\webmyapi\\objetostransferencia\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|solutionrelative:webmyapi\\objetostransferencia\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|c:\\users\\cjroy\\downloads\\webapi backend\\webmyapi\\objetostransferencia\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|solutionrelative:webmyapi\\objetostransferencia\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|c:\\users\\cjroy\\downloads\\webapi backend\\webmyapi\\objetostransferencia\\paisdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|solutionrelative:webmyapi\\objetostransferencia\\paisdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|c:\\users\\cjroy\\downloads\\webapi backend\\webmyapi\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|solutionrelative:webmyapi\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|c:\\users\\cjroy\\downloads\\webapi backend\\webmyapi\\interfaces\\ipaisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|solutionrelative:webmyapi\\interfaces\\ipaisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|c:\\users\\cjroy\\downloads\\webapi backend\\webmyapi\\servicios\\paisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|solutionrelative:webmyapi\\servicios\\paisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|c:\\users\\cjroy\\downloads\\webapi backend\\webmyapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|solutionrelative:webmyapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|c:\\users\\cjroy\\downloads\\webapi backend\\webmyapi\\migrations\\apidbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|solutionrelative:webmyapi\\migrations\\apidbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|c:\\users\\cjroy\\downloads\\webapi backend\\webmyapi\\migrations\\20241028024842_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|solutionrelative:webmyapi\\migrations\\20241028024842_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|c:\\users\\cjroy\\downloads\\webapi backend\\webmyapi\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|solutionrelative:webmyapi\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|c:\\users\\cjroy\\downloads\\webapi backend\\webmyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|solutionrelative:webmyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|c:\\users\\cjroy\\downloads\\webapi backend\\webmyapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|solutionrelative:webmyapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|c:\\users\\cjroy\\downloads\\webapi backend\\webmyapi\\webmyapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A359504-0737-4716-88DD-EA8763292A31}|WebMyApi\\WebMyApi.csproj|solutionrelative:webmyapi\\webmyapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 349,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 51,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApiDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\Migrations\\ApiDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebMyApi\\Migrations\\ApiDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\Migrations\\ApiDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WebMyApi\\Migrations\\ApiDbContextModelSnapshot.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:04:17.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241028024842_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\Migrations\\20241028024842_Inicial.cs",
+              "RelativeDocumentMoniker": "WebMyApi\\Migrations\\20241028024842_Inicial.cs",
+              "ToolTip": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\Migrations\\20241028024842_Inicial.cs",
+              "RelativeToolTip": "WebMyApi\\Migrations\\20241028024842_Inicial.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:04:09.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\ObjetosTransferencia\\LoginDto.cs",
+              "RelativeDocumentMoniker": "WebMyApi\\ObjetosTransferencia\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\ObjetosTransferencia\\LoginDto.cs",
+              "RelativeToolTip": "WebMyApi\\ObjetosTransferencia\\LoginDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T01:56:08.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaisController.cs",
+              "DocumentMoniker": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\Controllers\\PaisController.cs",
+              "RelativeDocumentMoniker": "WebMyApi\\Controllers\\PaisController.cs",
+              "ToolTip": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\Controllers\\PaisController.cs",
+              "RelativeToolTip": "WebMyApi\\Controllers\\PaisController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T00:38:33.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebMyApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\WeatherForecast.cs",
+              "RelativeToolTip": "WebMyApi\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T00:30:46.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\Data\\ApiDbContext.cs",
+              "RelativeDocumentMoniker": "WebMyApi\\Data\\ApiDbContext.cs",
+              "ToolTip": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\Data\\ApiDbContext.cs",
+              "RelativeToolTip": "WebMyApi\\Data\\ApiDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T00:29:29.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WebMyApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\appsettings.json",
+              "RelativeToolTip": "WebMyApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T00:00:25.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebMyApi\\Program.cs",
+              "ToolTip": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\Program.cs",
+              "RelativeToolTip": "WebMyApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T21:42:04.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "WebMyApi\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "WebMyApi\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T21:31:40.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebMyApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebMyApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T21:01:34.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaisService.cs",
+              "DocumentMoniker": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\Servicios\\PaisService.cs",
+              "RelativeDocumentMoniker": "WebMyApi\\Servicios\\PaisService.cs",
+              "ToolTip": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\Servicios\\PaisService.cs",
+              "RelativeToolTip": "WebMyApi\\Servicios\\PaisService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T21:00:52.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\Servicios\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "WebMyApi\\Servicios\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\Servicios\\UsuarioService.cs",
+              "RelativeToolTip": "WebMyApi\\Servicios\\UsuarioService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T21:00:02.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPaisService.cs",
+              "DocumentMoniker": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\Interfaces\\IPaisService.cs",
+              "RelativeDocumentMoniker": "WebMyApi\\Interfaces\\IPaisService.cs",
+              "ToolTip": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\Interfaces\\IPaisService.cs",
+              "RelativeToolTip": "WebMyApi\\Interfaces\\IPaisService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T20:59:10.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\Interfaces\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "WebMyApi\\Interfaces\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\Interfaces\\IUsuarioService.cs",
+              "RelativeToolTip": "WebMyApi\\Interfaces\\IUsuarioService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T20:58:35.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WebMyApi.csproj",
+              "DocumentMoniker": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\WebMyApi.csproj",
+              "RelativeDocumentMoniker": "WebMyApi\\WebMyApi.csproj",
+              "ToolTip": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\WebMyApi.csproj",
+              "RelativeToolTip": "WebMyApi\\WebMyApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-27T20:57:56.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaisDto.cs",
+              "DocumentMoniker": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\ObjetosTransferencia\\PaisDto.cs",
+              "RelativeDocumentMoniker": "WebMyApi\\ObjetosTransferencia\\PaisDto.cs",
+              "ToolTip": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\ObjetosTransferencia\\PaisDto.cs",
+              "RelativeToolTip": "WebMyApi\\ObjetosTransferencia\\PaisDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T20:57:11.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\ObjetosTransferencia\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "WebMyApi\\ObjetosTransferencia\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\ObjetosTransferencia\\UsuarioDto.cs",
+              "RelativeToolTip": "WebMyApi\\ObjetosTransferencia\\UsuarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T20:56:51.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pais.cs",
+              "DocumentMoniker": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\Modelos\\Pais.cs",
+              "RelativeDocumentMoniker": "WebMyApi\\Modelos\\Pais.cs",
+              "ToolTip": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\Modelos\\Pais.cs",
+              "RelativeToolTip": "WebMyApi\\Modelos\\Pais.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T20:54:43.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\Modelos\\Usuario.cs",
+              "RelativeDocumentMoniker": "WebMyApi\\Modelos\\Usuario.cs",
+              "ToolTip": "C:\\Users\\cjroy\\Downloads\\WebApi Backend\\WebMyApi\\Modelos\\Usuario.cs",
+              "RelativeToolTip": "WebMyApi\\Modelos\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T20:53:49.773Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
